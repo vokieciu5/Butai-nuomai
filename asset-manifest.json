@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Butai-nuomai/static/css/main.59cac880.css",
-    "main.js": "/Butai-nuomai/static/js/main.f3e61cd8.js",
-    "static/js/787.729211f6.chunk.js": "/Butai-nuomai/static/js/787.729211f6.chunk.js",
-    "static/media/video.mp4": "/Butai-nuomai/static/media/video.ce1610c2e7824b7e9925.mp4",
-    "static/media/logo.svg": "/Butai-nuomai/static/media/logo.c97e4a32cf2a725f9893c970f7dce6e3.svg",
-    "index.html": "/Butai-nuomai/index.html",
-    "main.59cac880.css.map": "/Butai-nuomai/static/css/main.59cac880.css.map",
-    "main.f3e61cd8.js.map": "/Butai-nuomai/static/js/main.f3e61cd8.js.map",
-    "787.729211f6.chunk.js.map": "/Butai-nuomai/static/js/787.729211f6.chunk.js.map"
+    "main.css": "/000.lt/static/css/main.59cac880.css",
+    "main.js": "/000.lt/static/js/main.4178f557.js",
+    "static/js/787.729211f6.chunk.js": "/000.lt/static/js/787.729211f6.chunk.js",
+    "static/media/video.mp4": "/000.lt/static/media/video.ce1610c2e7824b7e9925.mp4",
+    "static/media/logo.svg": "/000.lt/static/media/logo.c97e4a32cf2a725f9893c970f7dce6e3.svg",
+    "index.html": "/000.lt/index.html",
+    "main.59cac880.css.map": "/000.lt/static/css/main.59cac880.css.map",
+    "main.4178f557.js.map": "/000.lt/static/js/main.4178f557.js.map",
+    "787.729211f6.chunk.js.map": "/000.lt/static/js/787.729211f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59cac880.css",
-    "static/js/main.f3e61cd8.js"
+    "static/js/main.4178f557.js"
   ]
 }
