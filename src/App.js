@@ -1,5 +1,5 @@
 import './App.css';
-import logo from './logo.png';
+import logo from './logo.svg';
 import React from 'react';
 import video from './video.mp4'
 
