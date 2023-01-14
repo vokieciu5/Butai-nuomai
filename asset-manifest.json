@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Butai-nuomai/static/css/main.2e01ea1d.css",
-    "main.js": "/Butai-nuomai/static/js/main.6a1b9a31.js",
+    "main.css": "/Butai-nuomai/static/css/main.59cac880.css",
+    "main.js": "/Butai-nuomai/static/js/main.f3e61cd8.js",
     "static/js/787.729211f6.chunk.js": "/Butai-nuomai/static/js/787.729211f6.chunk.js",
     "static/media/video.mp4": "/Butai-nuomai/static/media/video.ce1610c2e7824b7e9925.mp4",
-    "static/media/logo.png": "/Butai-nuomai/static/media/logo.e596dbd866b714e91492.png",
+    "static/media/logo.svg": "/Butai-nuomai/static/media/logo.c97e4a32cf2a725f9893c970f7dce6e3.svg",
     "index.html": "/Butai-nuomai/index.html",
-    "main.2e01ea1d.css.map": "/Butai-nuomai/static/css/main.2e01ea1d.css.map",
-    "main.6a1b9a31.js.map": "/Butai-nuomai/static/js/main.6a1b9a31.js.map",
+    "main.59cac880.css.map": "/Butai-nuomai/static/css/main.59cac880.css.map",
+    "main.f3e61cd8.js.map": "/Butai-nuomai/static/js/main.f3e61cd8.js.map",
     "787.729211f6.chunk.js.map": "/Butai-nuomai/static/js/787.729211f6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e01ea1d.css",
-    "static/js/main.6a1b9a31.js"
+    "static/css/main.59cac880.css",
+    "static/js/main.f3e61cd8.js"
   ]
 }
